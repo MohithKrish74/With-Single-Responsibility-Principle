@@ -1,1 +1,0 @@
-# With-Single-Responsibility-Principle
